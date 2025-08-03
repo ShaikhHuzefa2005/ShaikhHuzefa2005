@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhHuzefa2005&layout=donut-vertical&theme=cool gray)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhHuzefa2005&layout=donut-vertical&theme=coolgray)
 <!--
 **ShaikhHuzefa2005/ShaikhHuzefa2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
