@@ -78,5 +78,5 @@ Replace each # with your actual links. Keep only what you use.
 ---
 
 <!-- Snake contribution graph (optional) -->
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ShaikhHuzefa2005/ShaikhHuzefa2005/output/snake.svg" alt="Snake animation" />
 
