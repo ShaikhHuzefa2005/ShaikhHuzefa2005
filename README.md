@@ -69,11 +69,16 @@
 ### 🤝 Connect with me
 <!--
 Replace each # with your actual links. Keep only what you use.
-<a href="www.linkedin.com/in/huzefa-shaikh-8b821b325" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="32" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/huzefa-shaikh-8b821b325" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="32" alt="LinkedIn" /></a>
 <a href="mailto:huzefasadik20@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="32" alt="Gmail" /></a>
 <a href="https://www.instagram.com/huzefa_s_shaikh/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="32" alt="Instagram" /></a>
 -->
+
 ---
 
-
-
+<!-- 🐍 Snake contribution graph (requires workflow) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShaikhHuzefa2005/ShaikhHuzefa2005/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShaikhHuzefa2005/ShaikhHuzefa2005/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ShaikhHuzefa2005/ShaikhHuzefa2005/output/github-contribution-grid-snake.svg" />
+</picture>
