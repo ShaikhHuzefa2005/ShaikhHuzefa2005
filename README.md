@@ -39,6 +39,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ShaikhHuzefa2005&show_icons=true&theme=blue_navy" height="160px"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhHuzefa2005&layout=compact&theme=blue_navy" height="160px"/>
+</p>
+
+
 ---
 
 ### 🔗 Connect With Me  
