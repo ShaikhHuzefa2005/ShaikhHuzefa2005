@@ -3,7 +3,7 @@
 
 <!-- Animated Subtitle -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00A3FF&width=500&lines=Aspiring+Software+Development+Engineer;Full-Stack+Developer;Learning+by+Building+%F0%9F%9A%80" alt="typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00A3FF&width=500&lines=Aspiring+Software+Development+Engineer;Aspiring+Full-Stack+Developer;Learning+by+Building+%F0%9F%9A%80" alt="typing intro" />
 </h3>
 
 ---
